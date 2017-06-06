@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/dialo/Documents/CLionProjects/CodeCpp-oop-lr3/Complex.h
+cmath
+-
+
+C:/Users/dialo/Documents/CLionProjects/CodeCpp-oop-lr3/Extend.h
+ExtendComplex.h
+C:/Users/dialo/Documents/CLionProjects/CodeCpp-oop-lr3/ExtendComplex.h
+
+C:/Users/dialo/Documents/CLionProjects/CodeCpp-oop-lr3/ExtendComplex.h
+iostream
+C:/Users/dialo/Documents/CLionProjects/CodeCpp-oop-lr3/iostream
+fstream
+C:/Users/dialo/Documents/CLionProjects/CodeCpp-oop-lr3/fstream
+ctime
+C:/Users/dialo/Documents/CLionProjects/CodeCpp-oop-lr3/ctime
+Complex.h
+C:/Users/dialo/Documents/CLionProjects/CodeCpp-oop-lr3/Complex.h
+
+C:/Users/dialo/Documents/CLionProjects/CodeCpp-oop-lr3/main.cpp
+iostream
+-
+ExtendComplex.h
+C:/Users/dialo/Documents/CLionProjects/CodeCpp-oop-lr3/ExtendComplex.h
+Extend.h
+C:/Users/dialo/Documents/CLionProjects/CodeCpp-oop-lr3/Extend.h
+
