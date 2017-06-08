@@ -53,7 +53,7 @@ public:
                 ofs << z;
             }
         } catch (exception) {
-            cout << "ERROR: Newfile.txt available only for reading" << endl;
+            cerr << "ERROR: Newfile.txt available only for reading" << endl;
         }
     }
 };

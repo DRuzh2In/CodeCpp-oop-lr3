@@ -34,10 +34,10 @@ int main() {
     cout << div << endl;
     complexOfstream("Complex.txt", div);
 
+    cout << "Recording object: ExtendComplex to file: Newfile.txt" << endl;
     complexOfstream("Newfile.txt", div);
 
-
     Extend extend(2, 6);
-    cout << extend.get_count() << endl;
+    cout << "Count construction object: Extend = " << extend.get_count() << endl;
 };
 
